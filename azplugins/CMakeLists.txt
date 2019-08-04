@@ -64,6 +64,7 @@ set(_${COMPONENT_NAME}_cu_sources
     BounceBackNVEGPU.cu
     DPDPotentials.cu
     ImplicitEvaporatorGPU.cu
+    MPCDStreamingMethod.cu
     OrientationRestraintComputeGPU.cu
     PairPotentialAshbaugh.cu
     PairPotentialAshbaugh24.cu
